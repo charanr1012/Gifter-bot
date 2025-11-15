@@ -9,7 +9,7 @@ Finding the perfect gift just got easier with Gifty. Simple, direct, and to the 
 
 Fig : interface of the chatbot
 
-![image]([https://github.com/user-attachments/assets/a968df4b-c1e6-4753-a8fb-3b7c8c0ad8c9](https://github.com/charanr1012/Gifter-bot/blob/main/gifter.png?raw=true))
+![image](https://github.com/charanr1012/Gifter-bot/blob/main/Backend/gifter.png?raw=true)
 
 ### Handling Installation Errors with `requirements.txt`
 
@@ -43,6 +43,7 @@ When installing packages using `requirements.txt`, you may encounter an error wi
 By following these steps, you should be able to resolve the `numpy` installation error and successfully install the required packages for your project.
 
 ---
+
 
 
 
