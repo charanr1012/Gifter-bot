@@ -2,7 +2,7 @@
 
 # GR-bot
 
-Gifter: Your Personal Gift Recommendation Chatbot 🎁
+Gifter: gift recommender chat bot 
 
 Finding the perfect gift just got easier with Gifty. Simple, direct, and to the point, Gifty provides personalized gift suggestions for any occasion and recipient. Whether it's a birthday, anniversary, holiday, or just because, let Gifty help you discover the ideal present with ease. Start chatting and find the perfect gift today!
 
@@ -43,3 +43,4 @@ When installing packages using `requirements.txt`, you may encounter an error wi
 By following these steps, you should be able to resolve the `numpy` installation error and successfully install the required packages for your project.
 
 ---
+
