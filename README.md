@@ -1,6 +1,6 @@
 # gifter-chatbot
 
-# GR-bot
+# Gif-bot
 
 Gifter: gift recommender chat bot 
 
@@ -43,4 +43,5 @@ When installing packages using `requirements.txt`, you may encounter an error wi
 By following these steps, you should be able to resolve the `numpy` installation error and successfully install the required packages for your project.
 
 ---
+
 
